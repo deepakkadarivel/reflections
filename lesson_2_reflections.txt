@@ -1,0 +1,7 @@
+	What happens when you initialize a repository? Why do you need to do it?
+
+	To inialize a repository I used "git init" command. After initializatuion a new hidden file was created called ".git". I needed to create a new repository in order to version control my project files.
+
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Stagging area provides the ability to view and recheck files that are being added to repository. Working directory are the local work space where the files are stored. Repository is a place where all your comitted files and snapshots are saved.
