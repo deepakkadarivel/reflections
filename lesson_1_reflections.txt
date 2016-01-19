@@ -1,0 +1,27 @@
+Using diff in Mac terminal was a new command that I learned.
+"diff" command showe'd the changes present in two different files of same content.
+The result of diff "command" gave + and - indication on lines to shows the differentiation in lines tha were modified in the file.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Actually that would help me a lot more during development prosess, I personally work a lot on non deployment stuff, to make it stable before production. So during that process I may have to make a lot of changes to the code or completely redo and undo stuff. Being able to access the histroy of my file will help a lot in faster development and find my previous code structure easy.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Automatic saving for code files can be a better option when we are working on a single file, but manual commit are the better option for saving a project. As all IDE's provide the functionality of automatic saving which can be accessed offline. Manual saving is a better option for Version control.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because projects are made of multiple file where as GoogleDrive and Dropbox are just used to save files of user as backup like images, documents and videos.
+
+How can you use the commands git log and git diff to view the history of files?
+
+"git log" command gives all commit histoty of the project. "git diff" is used to find the difference in commits made in the repository.
+
+How might using version control make you more confident to make changes that could break something?
+
+Using version control actually plays an important role to fix a brekage in the project file by moving back to the older commit that was working and fixing the issue that caused it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Probably i think i'll be using Git for all projects from now on once i finish this course.
