@@ -9,3 +9,7 @@
 	How can you use the staging area to make sure you have one commit per logical change?
 
 	Stagging area provides all the list of files that are to be comitted. Performing "git diff --staged" allows to check the changes made to the file, this way one commit per logical change can be made.
+
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches can be helpfull in many cases, mostly during building a new feature or fixing a bug. The worst case is during experimenting a new feature.
