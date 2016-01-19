@@ -5,3 +5,7 @@
 	How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	Stagging area provides the ability to view and recheck files that are being added to repository. Working directory are the local work space where the files are stored. Repository is a place where all your comitted files and snapshots are saved.
+
+	How can you use the staging area to make sure you have one commit per logical change?
+
+	Stagging area provides all the list of files that are to be comitted. Performing "git diff --staged" allows to check the changes made to the file, this way one commit per logical change can be made.
