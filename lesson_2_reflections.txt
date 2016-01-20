@@ -17,3 +17,7 @@
 	How do the diagrams help you visualize the branch structure?
 
 	Creating diagrams of the branches helps in determining the flow of the project.
+
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two branches together allows to combine new fuctionality or work performed on two different branches by two different users at different time.
