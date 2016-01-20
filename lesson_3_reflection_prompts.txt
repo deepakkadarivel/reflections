@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If I'm working on a project that collaborates with other users or want to make a cloud backup of the working copies i use remote repository
+rather than local working directory.
